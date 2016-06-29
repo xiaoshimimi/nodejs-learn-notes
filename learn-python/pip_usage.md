@@ -48,3 +48,5 @@ rejected
 green
 #
 ```
+
+More complex usage, please see: [requirements file format](https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format)  
